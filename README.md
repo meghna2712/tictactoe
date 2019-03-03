@@ -1,2 +1,2 @@
 # tictactoe
-Classic Gmae made using Swing class in Java
+Classic Game made using Swing class in Java
